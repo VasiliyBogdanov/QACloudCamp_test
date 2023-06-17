@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.git
+.gitignore
+.venv/
+__pycache__/
+README.md
+test_strategy.doc
+.pytest_cache/
